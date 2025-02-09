@@ -1,0 +1,706 @@
+{
+ "ForageSpawnEnabled": true,
+ "LargeObjectSpawnEnabled": false,
+ "OreSpawnEnabled": false,
+ "MonsterSpawnEnabled": false,
+ "Forage_Spawn_Settings": {
+  "Areas": [
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Mountain Lake",
+    "MapName": "Mountain",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "0,0/95,40"
+    ],
+    "ExcludeCoordinates": [
+     "96,0/130,40"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Farm Area",
+    "MapName": "Farm",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Railroad Station",
+    "MapName": "Railroad",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 3,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "-0,36/68,57"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Quarry",
+    "MapName": "Mountain",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 2,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "104,10/130,40"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Backwoods Digs",
+    "MapName": "Backwoods",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 2,
+    "IncludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Beach West",
+    "MapName": "Beach",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "0,0/56,25"
+    ],
+    "ExcludeCoordinates": [
+     "57,0/93,25"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Beach East",
+    "MapName": "Beach",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "56,0/93,25"
+    ],
+    "ExcludeCoordinates": [
+     "0,0/55,25"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Secret Woods",
+    "MapName": "Woods",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 2,
+    "IncludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Bussing",
+    "MapName": "BusStop",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Desert Digs",
+    "MapName": "Desert",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 3,
+    "IncludeTerrainTypes": [
+     "Diggable",
+     "Dirt"
+    ],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Forest Digs",
+    "MapName": "Forest",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 10,
+    "IncludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Town CC",
+    "MapName": "Town",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 2,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "0,0/67,34",
+     "67,0/82,27"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Town Square",
+    "MapName": "Town",
+    "MinimumSpawnsPerDay": 1,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "0,46/49,102",
+     "50,46/74,102"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": null,
+    "SummerItemIndex": null,
+    "FallItemIndex": null,
+    "WinterItemIndex": null,
+    "UniqueAreaID": "Town East Bank",
+    "MapName": "Town",
+    "MinimumSpawnsPerDay": 1,
+    "MaximumSpawnsPerDay": 3,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "81,40/110,109"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "GameStateQueries": [],
+     "CPConditions": {},
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   }
+  ],
+  "PercentExtraSpawnsPerForagingLevel": 0,
+  "SpringItemIndex": [
+   "Joja Cola",
+   "Trash",
+   "Driftwood",
+   "Broken Glasses",
+   "Broken CD",
+   "Soggy Newspaper"
+  ],
+  "SummerItemIndex": [
+   "Joja Cola",
+   "Trash",
+   "Driftwood",
+   "Broken Glasses",
+   "Broken CD",
+   "Soggy Newspaper"
+  ],
+  "FallItemIndex": [
+   "Joja Cola",
+   "Trash",
+   "Driftwood",
+   "Broken Glasses",
+   "Broken CD",
+   "Soggy Newspaper"
+  ],
+  "WinterItemIndex": [
+   "Joja Cola",
+   "Trash",
+   "Driftwood",
+   "Broken Glasses",
+   "Broken CD",
+   "Soggy Newspaper"
+  ],
+  "CustomTileIndex": []
+ },
+ "Large_Object_Spawn_Settings": {
+  "Areas": [],
+  "CustomTileIndex": []
+ },
+ "Ore_Spawn_Settings": {
+  "Areas": [],
+  "PercentExtraSpawnsPerMiningLevel": 0,
+  "MiningLevelRequired": {
+   "Stone": 0,
+   "Geode": 0,
+   "FrozenGeode": 5,
+   "MagmaGeode": 8,
+   "OmniGeode": 0,
+   "Gem": 6,
+   "Copper": 0,
+   "Iron": 4,
+   "Gold": 7,
+   "Iridium": 9,
+   "Mystic": 10,
+   "Radioactive": 0,
+   "Diamond": 6,
+   "Ruby": 6,
+   "Jade": 6,
+   "Amethyst": 6,
+   "Topaz": 6,
+   "Emerald": 6,
+   "Aquamarine": 6,
+   "Mussel": 0,
+   "Fossil": 0,
+   "Clay": 0,
+   "CinderShard": 0,
+   "Coal": 0
+  },
+  "StartingSpawnChance": {
+   "Stone": 66,
+   "Geode": 8,
+   "FrozenGeode": 4,
+   "MagmaGeode": 2,
+   "OmniGeode": 0,
+   "Gem": 5,
+   "Copper": 21,
+   "Iron": 15,
+   "Gold": 10,
+   "Iridium": 1,
+   "Mystic": 1,
+   "Radioactive": 0,
+   "Diamond": 0,
+   "Ruby": 0,
+   "Jade": 0,
+   "Amethyst": 0,
+   "Topaz": 0,
+   "Emerald": 0,
+   "Aquamarine": 0,
+   "Mussel": 0,
+   "Fossil": 0,
+   "Clay": 0,
+   "CinderShard": 0,
+   "Coal": 0
+  },
+  "LevelTenSpawnChance": {
+   "Stone": 48,
+   "Geode": 2,
+   "FrozenGeode": 2,
+   "MagmaGeode": 2,
+   "OmniGeode": 0,
+   "Gem": 5,
+   "Copper": 16,
+   "Iron": 13,
+   "Gold": 10,
+   "Iridium": 1,
+   "Mystic": 1,
+   "Radioactive": 0,
+   "Diamond": 0,
+   "Ruby": 0,
+   "Jade": 0,
+   "Amethyst": 0,
+   "Topaz": 0,
+   "Emerald": 0,
+   "Aquamarine": 0,
+   "Mussel": 0,
+   "Fossil": 0,
+   "Clay": 0,
+   "CinderShard": 0,
+   "Coal": 0
+  },
+  "CustomTileIndex": []
+ },
+ "Monster_Spawn_Settings": {
+  "Areas": [],
+  "CustomTileIndex": []
+ },
+ "QuarryTileIndex": [
+  556,
+  558,
+  583,
+  606,
+  607,
+  608,
+  630,
+  635,
+  636,
+  680,
+  681,
+  685
+ ],
+ "File_Conditions": {
+  "FarmTypes": [],
+  "FarmerNames": [],
+  "SaveFileNames": [],
+  "OtherMods": {}
+ }
+}
