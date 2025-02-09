@@ -1,0 +1,13 @@
+{
+  "Name": "(FTM) KTG's Forage On the Farm",
+  "Author": "Kasual",
+  "Version": "1.0.0",
+  "Description": "Mix up the foraging found on the farm",
+  "UniqueID": "Kasual.ForageOnTheFarm",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.23.0"
+  }
+}
