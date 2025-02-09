@@ -1,0 +1,13 @@
+{
+  "Name": "(FTM) KTG's More Dig Spots",
+  "Author": "Kasual",
+  "Version": "1.0.0",
+  "Description": "Adds more dig spots",
+  "UniqueID": "Kasual.MoreDigSpots",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.23.0"
+  }
+}
