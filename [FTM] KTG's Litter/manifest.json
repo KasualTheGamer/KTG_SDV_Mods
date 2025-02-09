@@ -1,0 +1,13 @@
+{
+  "Name": "(FTM) KTG's Litter",
+  "Author": "Kasual",
+  "Version": "1.0.0",
+  "Description": "Adds a chance to spawn collectable litter throughout the map",
+  "UniqueID": "Kasual.KTGLitter",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.23.0"
+  }
+}
