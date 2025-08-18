@@ -1,0 +1,11 @@
+{
+    "Name": "Cleaner Farm Buildings, Edited",
+    "Author": "Oakstar519",
+    "Version": "1.3.0",
+    "Description": "Cleans up barns, coops, and the cellar. Optionally removes barrels and hay. Config changes by KTG",
+    "UniqueID": "Oakstar519.CleanerFarmBuildings",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

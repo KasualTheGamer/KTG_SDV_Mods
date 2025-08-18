@@ -1,0 +1,93 @@
+{
+	"Format": "2.7.0",
+	"ConfigSchema": {
+		"EnableBarn": {
+			"AllowValues": "true, false",
+			"Default": true,
+			"Section": "Barns"
+		},
+		"BarnStyle": {
+			"AllowValues": "minor, moderate, major",
+			"Default": "minor",
+			"Section": "Barns"
+		},
+		"EnableCoop": {
+			"AllowValues": "true, false",
+			"Default": true,
+			"Section": "Coops"
+		},
+		"CoopStyle": {
+			"AllowValues": "minor, moderate, major",
+			"Default": "minor",
+			"Section": "Coops"
+		},
+		"EnableCellar": {
+			"AllowValues": "true, false",
+			"Default": true,
+			"Section": "Cellar"
+		},
+		"CellarStyle": {
+			"AllowValues": "minor, moderate, major",
+			"Default": "minor",
+			"Section": "Cellar"
+		}
+	},
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Maps/Barn",
+			"FromFile": "assets/Barn_{{BarnStyle}}.tmx",
+			"When": {
+				"EnableBarn": true
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Barn2",
+			"FromFile": "assets/Barn2_{{BarnStyle}}.tmx",
+			"When": {
+				"EnableBarn": true
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Barn3",
+			"FromFile": "assets/Barn3_{{BarnStyle}}.tmx",
+			"When": {
+				"EnableBarn": true
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Cellar",
+			"FromFile": "assets/Cellar_{{CellarStyle}}.tmx",
+			"When": {
+				"EnableCellar": true
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Coop",
+			"FromFile": "assets/Coop_{{CoopStyle}}.tmx",
+			"When": {
+				"EnableCoop": true
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Coop2",
+			"FromFile": "assets/Coop2_{{CoopStyle}}.tmx",
+			"When": {
+				"EnableCoop": true
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Coop3",
+			"FromFile": "assets/Coop3_{{CoopStyle}}.tmx",
+			"When": {
+				"EnableCoop": true
+			}
+		}
+	]
+}
