@@ -6,8 +6,8 @@
     "config.BarnStyle.name": "Barn Style",
     "config.BarnStyle.description": "The style for the barn interiors.",
     "config.BarnStyle.values.minor": "Minor Repairs",
-    "config.BarnStyle.values.moderate": "Minor Repairs and Decorations Removed",
-    "config.BarnStyle.values.major": "Minor Repairs, No Decorations, No Popouts",
+    "config.BarnStyle.values.moderate": "Repairs and Decorations Removed",
+    "config.BarnStyle.values.major": "Repairs, Deco and Nook Removed",
     "config.section.Cellar.name": "Cellar",
     "config.section.Cellar.description": "Options regarding the cellar",
     "config.EnableCellar.name": "Replace Celler Layout?",
@@ -15,8 +15,8 @@
     "config.CellarStyle.name": "Cellar Style",
     "config.CellarStyle.description": "The style for the cellar.",
     "config.CellarStyle.values.minor": "Minor Repairs",
-    "config.CellarStyle.values.moderate": "Minor Repairs and Decorations Removed",
-    "config.CellarStyle.values.major": "Minor Repairs, Decorations Removed, Columns Removed",
+    "config.CellarStyle.values.moderate": "Repairs and Decorations Removed",
+    "config.CellarStyle.values.major": "Repairs, Deco and Columns Removed",
     "config.section.Coops.name": "Coops",
     "config.section.Coops.description": "Options regarding the coop interiors",
     "config.EnableCoop.name": "Replace Coop Interiors?",
@@ -24,6 +24,7 @@
     "config.CoopStyle.name": "Coop Style",
     "config.CoopStyle.description": "The style for the coop interiors.",
     "config.CoopStyle.values.minor": "Minor Repairs",
-    "config.CoopStyle.values.moderate": "Minor Repairs and Decorations Removed",
-    "config.CoopStyle.values.major": "Minor Repairs, Decorations Removed, Columns Removed"
+    "config.CoopStyle.values.moderate": "Repairs and Decorations Removed",
+    "config.CoopStyle.values.major": "Repairs, Deco and Columns Removed"
 }
+
