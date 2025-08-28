@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Quais recursos de mapa você deseja?",
+	"config.MapGroup.description": "Selecione os recursos de mapa desejados na lista suspensa",
+	"config.MapGroup.values.Basic": "Com Natação, Sem Mina",
+	"config.MapGroup.values.NoswimBasic": "Sem Natação ou Mina",
+	"config.MapGroup.values.NoSwim": "Sem Natação, Com Mina",
+	"config.MapGroup.values.Swim": "Com Natação e Mina"
+}

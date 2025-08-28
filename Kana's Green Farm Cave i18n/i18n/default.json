@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Which map features do you want?",
+	"config.MapGroup.description": "Select the map features you want from the drop down list",
+	"config.MapGroup.values.Basic": "With Swimming, Without Mine", 
+	"config.MapGroup.values.NoswimBasic": "Without Swimming or Mine", 
+	"config.MapGroup.values.NoSwim": "Without Swimming, With Mine", 
+	"config.MapGroup.values.Swim": "With Swimming and Mine"
+}

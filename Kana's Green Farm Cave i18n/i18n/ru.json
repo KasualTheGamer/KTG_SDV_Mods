@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Какие объекты карты вам нужны?",
+	"config.MapGroup.description": "Выберите нужные объекты карты из выпадающего списка",
+	"config.MapGroup.values.Basic": "С плаванием, без моего",
+	"config.MapGroup.values.NoswimBasic": "Без плавания или моего",
+	"config.MapGroup.values.NoSwim": "Без плавания, с моим",
+	"config.MapGroup.values.Swim": "С плаванием и моим"
+}

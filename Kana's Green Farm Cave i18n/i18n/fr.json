@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Quelles entités cartographiques souhaitez-vous?",
+	"config.MapGroup.description": "Sélectionnez les entités cartographiques souhaitées dans la liste déroulante",
+	"config.MapGroup.values.Basic": "Avec la nage, sans la mienne",
+	"config.MapGroup.values.NoswimBasic": "Sans la nage ni la mienne",
+	"config.MapGroup.values.NoSwim": "Sans la nage, avec la mienne",
+	"config.MapGroup.values.Swim": "Avec la nage et la mienne"
+}

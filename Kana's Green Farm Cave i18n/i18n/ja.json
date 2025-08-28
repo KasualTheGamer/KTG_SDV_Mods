@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "どの地図機能が必要ですか？",
+	"config.MapGroup.description": "ドロップダウンリストから必要な地図機能を選択してください",
+	"config.MapGroup.values.Basic": "水泳あり、鉱山なし",
+	"config.MapGroup.values.NoswimBasic": "水泳も鉱山もなし",
+	"config.MapGroup.values.NoSwim": "水泳なし、鉱山あり",
+	"config.MapGroup.values.Swim": "水泳と鉱山あり"
+}

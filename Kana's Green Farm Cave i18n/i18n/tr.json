@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Hangi harita özelliklerini istiyorsunuz?",
+	"config.MapGroup.description": "Açılır listeden istediğiniz harita özelliklerini seçin",
+	"config.MapGroup.values.Basic": "Yüzme Özellikli, Madensiz",
+	"config.MapGroup.values.NoswimBasic": "Yüzme veya Madensiz",
+	"config.MapGroup.values.NoSwim": "Yüzme Özellikli, Madenli",
+	"config.MapGroup.values.Swim": "Yüzme ve Madenli"
+}

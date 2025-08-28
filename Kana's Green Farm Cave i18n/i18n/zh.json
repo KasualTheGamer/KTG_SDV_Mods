@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "您需要哪些地图功能？",
+	"config.MapGroup.description": "从下拉列表中选择您想要的地图功能",
+	"config.MapGroup.values.Basic": "包含游泳，不包含我的",
+	"config.MapGroup.values.NoswimBasic": "不包含游泳或我的",
+	"config.MapGroup.values.NoSwim": "不包含游泳，包含我的",
+	"config.MapGroup.values.Swim": "包含游泳和我的"
+}

@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "¿Qué características del mapa quieres?",
+	"config.MapGroup.description": "Selecciona las características del mapa que quieras de la lista desplegable",
+	"config.MapGroup.values.Basic": "Con natación, sin la mía",
+	"config.MapGroup.values.NoswimBasic": "Sin natación ni mina",
+	"config.MapGroup.values.NoSwim": "Sin natación, con la mía",
+	"config.MapGroup.values.Swim": "Con natación y mina"
+}

@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Welche Kartenfunktionen möchten Sie?",
+	"config.MapGroup.description": "Wählen Sie die gewünschten Kartenfunktionen aus der Dropdown-Liste aus",
+	"config.MapGroup.values.Basic": "Mit Schwimmen, Ohne Mine",
+	"config.MapGroup.values.NoswimBasic": "Ohne Schwimmen oder Mine",
+	"config.MapGroup.values.NoSwim": "Ohne Schwimmen, Mit Mine",
+	"config.MapGroup.values.Swim": "Mit Schwimmen und Mine"
+}

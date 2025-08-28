@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Mely térképfunkciókat szeretné?",
+	"config.MapGroup.description": "Válassza ki a kívánt térképfunkciókat a legördülő listából",
+	"config.MapGroup.values.Basic": "Úszás mellett, enyém nélkül",
+	"config.MapGroup.values.NoswimBasic": "Úszás és enyém nélkül",
+	"config.MapGroup.values.NoSwim": "Úszás nélkül, enyémen",
+	"config.MapGroup.values.Swim": "Úszás mellett és enyémen"
+}

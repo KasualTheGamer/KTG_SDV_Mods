@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "Quali elementi della mappa desideri?",
+	"config.MapGroup.description": "Seleziona gli elementi della mappa desiderati dall'elenco a discesa",
+	"config.MapGroup.values.Basic": "Con nuoto, Senza mina",
+	"config.MapGroup.values.NoswimBasic": "Senza nuoto o mina",
+	"config.MapGroup.values.NoSwim": "Senza nuoto, Con mina",
+	"config.MapGroup.values.Swim": "Con nuoto e mina"
+}

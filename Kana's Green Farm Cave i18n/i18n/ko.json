@@ -1,0 +1,8 @@
+{
+	"config.MapGroup.name": "어떤 지도 피처를 원하시나요?",
+	"config.MapGroup.description": "드롭다운 목록에서 원하는 지도 피처를 선택하세요.",
+	"config.MapGroup.values.Basic": "수영 가능, 내 피처 없음",
+	"config.MapGroup.values.NoswimBasic": "수영 또는 내 피처 없음",
+	"config.MapGroup.values.NoSwim": "수영 불가, 내 피처 있음",
+	"config.MapGroup.values.Swim": "수영 및 내 피처 있음"
+}
