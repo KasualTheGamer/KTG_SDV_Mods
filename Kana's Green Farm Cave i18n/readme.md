@@ -10,3 +10,17 @@ Grotta
 --i18n
 -[FTM] Grotta
 ```
+
+Present Translations included:
+English  default.json
+German	de.json
+Spanish	es.json
+French	fr.json
+Italian	it.json
+Japanese	ja.json
+Korean	ko.json
+Hungarian	hu.json
+Portuguese	pt.json
+Russian	ru.json
+Turkish	tr.json
+Chinese	zh.json
