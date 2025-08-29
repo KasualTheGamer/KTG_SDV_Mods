@@ -24,3 +24,38 @@ Portuguese	pt.json
 Russian	ru.json
 Turkish	tr.json
 Chinese	zh.json
+
+==========
+
+Traduzione di [Google Translate](https://translate.google.com/)
+
+Queste sono le traduzioni per il menu di configurazione GMCM per la [Grotta della Fattoria Verde](https://www.nexusmods.com/stardewvalley/mods/19498) di Kana. La traduzione in inglese è stata effettuata da un madrelingua e le restanti traduzioni sono state eseguite utilizzando [Google Translate](https://translate.google.com/).
+Per utilizzarle, prendi la cartella denominata `i18n` in questa directory con almeno il file `default.json` e posizionala allo stesso livello della cartella `assets` nella mod di Kana.
+
+La directory dovrebbe apparire così:
+
+```
+Grotta
+-[CP] MiaGrotta
+--assets
+--i18n
+-[FTM] Grotta
+```
+
+Traduzioni presenti:
+Inglese default.json
+Tedesco de.json
+Spagnolo es.json
+Francese fr.json
+Italiano it.json
+Giapponese ja.json
+Coreano ko.json
+Ungherese hu.json
+Portoghese pt.json
+Russo ru.json
+Turco tr.json
+Cinese zh.json
+
+
+
+
