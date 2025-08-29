@@ -12,18 +12,19 @@ Grotta
 ```
 
 Present Translations included:
-English  default.json
-German	de.json
-Spanish	es.json
-French	fr.json
-Italian	it.json
-Japanese	ja.json
-Korean	ko.json
-Hungarian	hu.json
-Portuguese	pt.json
-Russian	ru.json
-Turkish	tr.json
-Chinese	zh.json
+
+- English  default.json
+- German	de.json
+- Spanish	es.json
+- French	fr.json
+- Italian	it.json
+- Japanese	ja.json
+- Korean	ko.json
+- Hungarian	hu.json
+- Portuguese	pt.json
+- Russian	ru.json
+- Turkish	tr.json
+- Chinese	zh.json
 
 ==========
 
@@ -43,18 +44,19 @@ Grotta
 ```
 
 Traduzioni presenti:
-Inglese default.json
-Tedesco de.json
-Spagnolo es.json
-Francese fr.json
-Italiano it.json
-Giapponese ja.json
-Coreano ko.json
-Ungherese hu.json
-Portoghese pt.json
-Russo ru.json
-Turco tr.json
-Cinese zh.json
+
+- Inglese default.json
+- Tedesco de.json
+- Spagnolo es.json
+- Francese fr.json
+- Italiano it.json
+- Giapponese ja.json
+- Coreano ko.json
+- Ungherese hu.json
+- Portoghese pt.json
+- Russo ru.json
+- Turco tr.json
+- Cinese zh.json
 
 
 
